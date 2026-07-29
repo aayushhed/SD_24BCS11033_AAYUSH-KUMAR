@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="s5kRvMDoB84pZITcN6xy">
+    <mxGraphModel dx="2200" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gTlJDlNazjmuunBVtT8f-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;Functional requirements are:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;1. Sign in/Log in&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;2. Accept long URL&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;3. Create short URL&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;4. Expire URL&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;5.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Non-functional requirements are:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;1. Unique URL&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;2. Highly Available&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;3. Low latency&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;4. Scalability&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;5. Security&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="370" x="-350" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-9" edge="1" parent="1" source="gTlJDlNazjmuunBVtT8f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_YwJxT7kEuW2KR0iY3Is-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" value="USER" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gTlJDlNazjmuunBVtT8f-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-10" edge="1" parent="1" source="gTlJDlNazjmuunBVtT8f-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LOAD BALANCER" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="50" as="sourcePoint" />
+            <mxPoint x="730" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="140" as="sourcePoint" />
+            <mxPoint x="730" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNRsp88aMV1tdWBnZ-G1-3" edge="1" parent="1" source="gTlJDlNazjmuunBVtT8f-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="230" />
+              <mxPoint x="490" y="380" />
+            </Array>
+            <mxPoint x="540" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="URL GENERATOR" vertex="1">
+          <mxGeometry height="60" width="140" x="344" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gTlJDlNazjmuunBVtT8f-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Estimation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Average URL size = 300 Bytes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• URLs/day = 10 Million&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• 100 years&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Total URLs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 10M × 365 × 100&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 365 Billion&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Database Storage&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 365B × 300 Bytes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;≈ 110 TB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Cached URLs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 10 Million&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Redis Cache&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 10M × 300 Bytes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;≈ 3 GB RAM&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="490" x="-280" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HNRsp88aMV1tdWBnZ-G1-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TINY URL : ARCHITECTURE&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="370" x="80" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API/GATEWAY" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=27;" value="APPLICATION SERVER" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-11" edge="1" parent="1" source="_YwJxT7kEuW2KR0iY3Is-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gTlJDlNazjmuunBVtT8f-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SHORT URL CREATION" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-10" edge="1" parent="1" source="_YwJxT7kEuW2KR0iY3Is-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" target="_YwJxT7kEuW2KR0iY3Is-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="REDIRECTION" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-15" edge="1" parent="1" source="_YwJxT7kEuW2KR0iY3Is-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="315.07" />
+              <mxPoint x="700" y="315.07" />
+              <mxPoint x="700" y="380" />
+            </Array>
+            <mxPoint x="660" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-13" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="REDIS CACHE" vertex="1">
+          <mxGeometry height="80" width="120" x="670" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_YwJxT7kEuW2KR0iY3Is-16" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DATABASE" vertex="1">
+          <mxGeometry height="80" width="170" x="510" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
